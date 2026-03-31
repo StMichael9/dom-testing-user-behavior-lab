@@ -49,8 +49,8 @@ The development team has already built the DOM manipulation logic. Your task is 
 
 ## Project Structure
 
-    ├── index.html          # Application UI (DO NOT MODIFY)
-    ├── index.js            # Pre-built DOM logic (DO NOT MODIFY)
+    ├── index.html          # Application UI
+    ├── index.js            # Pre-built DOM logic
     ├── styles.css          # Basic styles for the application
     ├── package.json        # Project configuration and dependencies
     ├── eslint.config.mjs   # ESLint configuration
